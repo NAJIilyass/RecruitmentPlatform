@@ -4,6 +4,8 @@ import EntrepriseView from '../pages/layout/EntrepriseVue.vue'
 import HowItWorksVue from '../pages/layout/HowItWorksVue.vue'
 import LoginVue from '../pages/layout/LoginView.vue'
 import SignUpVue from '../pages/layout/SignUpView.vue'
+import SignClient from '../components/componentsSignUp/SignClient.vue'
+import SignCandidat from '../components/componentsSignUp/SignCandidat.vue'
 
 
 const routes = [
@@ -31,6 +33,16 @@ const routes = [
     path: '/signup',
     name: 'signup',
     component: SignUpVue
+  },
+  {
+    path: '/signClient',
+    name: 'signClient',
+    component: SignClient
+  },
+  {
+    path: '/signCandidat',
+    name: 'signCandidat',
+    component: SignCandidat
   }
 ]
 
