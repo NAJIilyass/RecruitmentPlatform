@@ -32,18 +32,5 @@ RecruitmentPlatform offers a wide array of features designed to facilitate the r
 - **Profile Management:** Both clients and candidates can create and maintain detailed profiles.
 - **Messaging Functionalities:** An integrated messaging system to streamline communication between recruiters and candidates.
 
-## Contribution
-This project was developed with a strong focus on collaboration and innovation. My contributions were mainly concentrated in the frontend domain, where I worked closely with the development team to bring the concept to life. Utilizing Vue.js and TailwindCSS, I developed various components and ensured the application’s dynamic nature while maintaining an attractive and intuitive user interface (UI).
-
-### Key Contributions:
-- Designed and implemented visually appealing and functional interfaces.
-- Enhanced the overall usability and engagement of the platform.
-- Developed essential features for the recruitment and application process.
-- Ensured a seamless user experience (UX) across all sections of the platform.
-
-## Acknowledgements
-- Thanks to the Achmitech team for the opportunity and collaboration.
-- Inspiration from similar platforms like Andela, Fiverr, and Upwork.
-
 ## Contact
 For any questions or suggestions, feel free to open an issue or contact me at najiilyassoo@gmail.com.
